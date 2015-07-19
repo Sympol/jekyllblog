@@ -1,0 +1,21 @@
+# Site settings
+title: Symplice BONI
+email: sb@sympliceboni.com
+description: > # this means to ignore newlines until "baseurl:"
+  #Jekyll #Materialize.css #bower.js on Windows 8.1
+  + Juifs noir de Koffi Olomide
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: SympolBoni
+github_username:  Sympol
+
+# Build settings
+markdown: kramdown
+
+#setting to github pages
+highlighter: pygments
+github: [Repository metadata]
+
+safe: true
+lsi: false
+source: your top-level directory
